@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white)  ![enter image description here](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ### Pallets - Portfolio and Communications
-##### Frontend release [PalletsFrontend](https://github.com/kacperkuczynski/palletsFrontend)
+##### Frontend release [PalletsFrontend](https://github.com/kacperkuczynski/palletsFrontend)  :point_right:  [otopalety.pl](otopalety.pl)
 ##### Backend release couse technical will be release in 
 ![enter image description here](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
