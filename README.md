@@ -19,7 +19,7 @@
 
 ### 1. By creating complex storage application with advance features
 :point_right: [ShopBackend](https://github.com/kacperkuczynski/ShopBackend)
-:point_right: [ShopFrontend](https://github.com/kacperkuczynski/ShopFrontend)
+<br/> :point_right: [ShopFrontend](https://github.com/kacperkuczynski/ShopFrontend)
 
 
 
@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 
+ 
 
